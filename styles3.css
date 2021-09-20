@@ -1,0 +1,25 @@
+.head{
+    box-sizing: border-box;
+    box-shadow: gray;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#poster{
+    background-color: red;
+    width: 600px;
+    height: 600px;
+}
+.text {
+    display: inline-block;
+}
+.h5 {
+    color: white;
+    size: 600px;
+}
+.p {
+    color: gray;
+    text-size-adjust: 600px;
+}
